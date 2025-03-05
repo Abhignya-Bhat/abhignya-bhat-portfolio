@@ -15,14 +15,14 @@ const experienceData = [
     image: exp2,
     title: "Software Engineer Intern",
     company: "Espire",
-    description: "• Implemented UI/UX components with React.js, HTML, CSS, and JavaScript, creating dynamic and visually appealing user experiences. • Optimized SQL queries and managed MySQL databases, improving data retrieval speed by 20% and ensuring efficient storage solutions. • Deployed and managed applications on AWS, utilizing services such as EC2 and S3, ensuring high availability and scalability, and reducing deployment times by 35%.",
+    description: "• Implemented UI/UX components with React.js, HTML, CSS, and JavaScript, creating dynamic and visually appealing user experiences. • Optimized SQL queries and managed MySQL databases, improving data retrieval speed by 20% and ensuring efficient storage solutions. • Deployed and managed applications on AWS, utilizing services such as EC2 and S3, ensuring high availability and scalability, and reducing deployment times by 15%.",
     technologies: ["React", "JavaScript", "HTML", "CSS","MySQL", "AWS", "Git", "Docker"]
   },
   {
     image: exp3,
     title: "Data Analyst Intern",
     company: "Eduvance",
-    description: "• Executed customer segmentation in Python, categorizing repeat buyers to enhance targeted marketing efforts; boosted sales by 27% using advanced machine learning algorithms. • Analyzed sales data using Excel functions to create targeted discount strategies, leading to a 15% increase in customer retention. • Created and implemented an advanced Tableau inventory management dashboard, decreasing customer acquisition cost by 5%.",
+    description: "• Executed customer segmentation in Python, categorizing repeat buyers to enhance targeted marketing efforts; boosted sales by 27% using advanced machine learning algorithms. • Analyzed sales data using Excel functions to create targeted discount strategies, leading to a 15% increase in customer retention. • Created and implemented an advanced Tableau inventory management dashboard, decreasing customer acquisition cost by 10%.",
     technologies: ["Python", "Pandas", "Excel", "Tableau", "Git"]
   }
 ];
