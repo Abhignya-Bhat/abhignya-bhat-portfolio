@@ -1,22 +1,22 @@
-import exp1 from '/crowddoing.png';
-import exp2 from '/espire.png';
+import exp1 from '/oneture_logo.png';
+import exp2 from '/crowddoing.png';
 import exp3 from '/eduvance.png';
 import { motion } from "framer-motion";
 
 const experienceData = [
-  { 
+  {
     image: exp1,
+    title: "Software Engineer",
+    company: "Oneture Technologies",
+    description: "•Developed and Tested .Net RESTful APIs for BSE ensuring high performance and seamless integration with existing systems.",
+    technologies: [".Net"]
+  },
+  { 
+    image: exp2,
     title: "Software Engineer",
     company: "CrowdDoing",
     description: "• Implemented a chatbot feature in the user management system, leveraging an agentic framework using Llama Index Flow. • Designed and implemented RESTful APIs to facilitate smooth communication between front-end and back-end systems for the chatbot. • Enhanced database efficiency by 15% through the optimization of SQL queries, while maintaining data integrity and system availability. • Engineered UI/UX components for a volunteer management system web application using React and JavaScript, achieving a 25% decrease in page load times, while successfully deploying the application on AWS, utilizing services such as EC2 and S3 services. • Utilized Git for version control to manage codebase changes effectively, and Docker for containerization, streamlining the development, testing, and deployment processes across various environments.",
     technologies: ["React", "Tailwind", "MongoDB", "Next.js", "Express.js", "Python", "LlamaIndex", "AWS", "Git", "Docker"]
-  },
-  {
-    image: exp2,
-    title: "Software Engineer Intern",
-    company: "Espire",
-    description: "• Implemented UI/UX components with React.js, HTML, CSS, and JavaScript, creating dynamic and visually appealing user experiences. • Optimized SQL queries and managed MySQL databases, improving data retrieval speed by 20% and ensuring efficient storage solutions. • Deployed and managed applications on AWS, utilizing services such as EC2 and S3, ensuring high availability and scalability, and reducing deployment times by 15%.",
-    technologies: ["React", "JavaScript", "HTML", "CSS","MySQL", "AWS", "Git", "Docker"]
   },
   {
     image: exp3,
